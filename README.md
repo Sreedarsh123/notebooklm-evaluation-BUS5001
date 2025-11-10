@@ -42,16 +42,27 @@ The goal was to test how NotebookLM supports academic workflows such as summaris
 ---
 
 ## 📎 Files in This Repository
-- `Figure4a_Summarisation.png`  
-- `Figure4b_Comparison.png`  
-- `Figure4c_AppliedScenario.png`  
-- `Figure4d_EthicsCheck.png`  
-- `Figure4e_WhitePaperOutput.png`  
+- `Q4 Flashcards.png`
+-`Q4 Mind Map.png`
+-`Q4 Quiz.png`
+-`Q4 Report.png`
+-`Start Flow in Dialogflow CX.png`
+-`Summarisation 4a.png`
+-`Summarisation 4b.png`
+-`Summarisation 4c.png`
+-`Ethics Check 4j.png`
+-`NotebookLM Interface.png`
+-`Concept Comparison 4d.png`
+-`Concept Comparison 4e.png`
+-`Concept Comparison 4f.png`
+-`Applied Scenario 4g.png`
+-`Applied Scenario 4h.png`
+-`Ethics Check 4i.png`
 - `README.md` *(this file)*
 
 ---
 
 ## 🔗 Report Reference
-This repository supports **Q4(d)** of BUS5001 Assessment 3 submitted by *Bindu Biswal*.  
+This repository supports **Q4(d)** of BUS5001 Assessment 3 submitted by *Sreedarsh S Nair*.  
 The main report includes discussion and reflections based on these results.
 
